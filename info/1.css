@@ -1,16 +1,19 @@
 
 body {
 	max-width:100%;
-    margin-left:2ex;
-    margin-right:2ex;
-background-image:url("g.jpg");
-    background-repeat:repeat;
+    margin-left:1ex;
+    margin-right:1ex;
+ background-color:#FFFFFF;	
+background-image:url("g1.jpg");
+  background-repeat:repeat;
+
+
 
 
 
 }
 blockquote {
-    font-size: 20px;
+    font-size: small 
  }
 
 .ired {color:#FF0000}
@@ -26,15 +29,16 @@ blockquote {
 	max-width: 1080px;
 	margin: 0 auto; 
 	border: 0px;
-	padding-left:40px;
-	padding-right:40px;
+	padding-left:30px;
+	padding-right:30px;
 	padding-bottom:40px;
 	padding-top:40px;
+ background-image:url("b.jpg");	
+  background-repeat:repeat;
+
+
+
 	/*background-color:#FFFFFF;*/
-
-        background-image:url("b.jpg");
-        background-repeat:repeat;
-
 	box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
 	-webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
@@ -81,6 +85,6 @@ body,p,li,td,a {
    
 body,p,li,td,a {
     font-size: 18px;
-    font-family: "宋体"
+    font-family: "ËÎÌå"
  }
 }
