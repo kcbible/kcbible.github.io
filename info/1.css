@@ -3,12 +3,8 @@ body {
 	max-width:100%;
     margin-left:1ex;
     margin-right:1ex;
- background-color:#FFFFFF;	
-background-image:url("g1.jpg");
-  background-repeat:repeat;
 
-
-
+ background-color:#F3E9D7;
 
 
 }
@@ -33,10 +29,7 @@ blockquote {
 	padding-right:30px;
 	padding-bottom:40px;
 	padding-top:40px;
- background-image:url("b.jpg");	
-  background-repeat:repeat;
-
-
+	background-color:#F9F9F9;
 
 	/*background-color:#FFFFFF;*/
 	box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
